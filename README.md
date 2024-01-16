@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osqy&show_icons=true&theme=onedark&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="osqy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osqy&show_icons=true&theme=onedark&locale=en" alt="osqy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osqy&theme=dark" alt="osqy" /></p>
