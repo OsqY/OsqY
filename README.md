@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">Backend developer and Systems Engineering student from Honduras</h3>
 
-- 🌱 I’m currently learning **Go, C#, React and about algorithms and data structures**
+- 🌱 I’m currently learning **C#, React and about algorithms and data structures**
 
 - ⚡ Fun fact **I use neovim, btw**
 
